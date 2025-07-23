@@ -1,4 +1,4 @@
-# 👨🏽‍💻 John Moreira
+# 👨🏽‍💻 John Fontes
 
 Bem-vindo ao meu repositório! Sou um estudante de técnologia de banco de dados e engenharia elétrica, apaixonado por análise de dados, soluções práticas, automações e sempre em busca de aprendizado constante .
 
