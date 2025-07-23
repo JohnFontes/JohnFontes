@@ -42,8 +42,3 @@ Bem-vindo ao meu repositório! Sou um estudante de técnologia de banco de dados
 
 ---
 
-## 📄 Licença
-
-Este repositório está sob a licença [MIT](LICENSE).
-
----
