@@ -21,6 +21,7 @@ Bem-vindo ao meu repositório! Sou um estudante de técnologia de banco de dados
 
 - 📊 **Dashboard de Consumo de Água** — Análise visual e indicadores com Power BI
 - 🤖 **Meu Mundo Python 1** — Scripts do meu curso em vídeo do Gustavo Guanabara
+- 🤖 **Meu Mundo Python 1** — Scripts do meu curso em vídeo do Gustavo Guanabara
 - 🤖 **Estudo de Caso** — Análise visual e indicadores com PowerBI e Excel
 
 ---
